@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PyRuntimeUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\UE5-Easy-Runtime-Python-Plugin-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Unreal Projects\UE5-Easy-Runtime-Python-Plugin-master\Plugins\PyRuntimeUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\PyRuntimeUtility\Module.PyRuntimeUtility.cpp.obj"
+"C:\Unreal Projects\UE5-Easy-Runtime-Python-Plugin-master\Plugins\PyRuntimeUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\PyRuntimeUtility\Default.rc2.res"
+/OUT:"C:\Unreal Projects\UE5-Easy-Runtime-Python-Plugin-master\Plugins\PyRuntimeUtility\Intermediate\Build\Win64\x64\UnrealEditor\Development\PyRuntimeUtility\UnrealEditor-PyRuntimeUtility.lib"
